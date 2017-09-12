@@ -1,0 +1,15 @@
+{
+    "name": "bureau-gravity/wp",
+    "description": "A useful API for interacting with WordPress",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Bureau Gravity",
+            "email": "developer@bureaugravity.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+      "psr-4": {"BureauGravity\\wp\\": "src/"}
+    }
+}
